@@ -165,7 +165,7 @@ img {
   text-align: center;
   background-color: var(--bg-color);
   color: var(--white-color);
-  background-image: linear-gradient(to left, var(--hero-gradient), var(--hero-gradient)), url("/images/hero.jpg");
+  background-image: linear-gradient(to left, var(--hero-gradient), var(--hero-gradient)), url("../images/hero.jpg");
   background-size: cover;
   background-repeat: no-repeat;
   background-position: center;
